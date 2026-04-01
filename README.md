@@ -53,7 +53,7 @@ Weekly trend distribution
 
 Choose depending on your dashboard story.
 
-📁 Project Structure
+📁 Project format
 📦 Nike-Stock-Market-Intelligence
  ┣ 📊 Dashboard Screenshot/
  ┣ 📁 Data/
