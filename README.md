@@ -1,6 +1,6 @@
 # NIKE-Stock-Market-Intelligence
 "A Power BI project analyzing Nike stock data (2022–2026) with Power Query, DAX, forecasting, volatility insights, KPIs, and interactive visuals for clear stock market intelligence."
-📈 Nike Stock Market Intelligence Dashboard – Power BI
+ Nike Stock Market Intelligence Dashboard – Power BI
 
 This project provides a complete Stock Market Intelligence Dashboard for Nike (NKE) using Power BI.
 It includes price trends, volatility analysis, return patterns, forecasting, and interactive insights for data-driven decision-making.
@@ -24,7 +24,7 @@ Power BI	Data Modeling, DAX, Visualizations
 Power Query	Data Cleaning & Transformations
 Excel / CSV Data	Stock Price Source
 DAX	Measures & KPIs
-📊 Key Dashboard Features
+ Key Dashboard Features
  1. Daily Closing Price Trend
 Visual: Line Chart
 X-Axis: Date
@@ -60,7 +60,7 @@ Choose depending on your dashboard story.
  ┣  Nike Stock Market.pbix
  ┣  README.md  ← (this file)
  ┗  PPT Presentation (optional)
-📐 DAX Measures Used
+  DAX Measures Used
 Daily Return % = 
 VAR PrevDay = CALCULATE(MAX('Data'[Close Price]), DATEADD('Data'[Date], -1, DAY))
 RETURN
