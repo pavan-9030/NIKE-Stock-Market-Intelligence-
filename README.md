@@ -5,7 +5,7 @@
 This project provides a complete Stock Market Intelligence Dashboard for Nike (NKE) using Power BI.
 It includes price trends, volatility analysis, return patterns, forecasting, and interactive insights for data-driven decision-making.
 
- Project Overview
+ Project Overview:
 
 The purpose of this project is to analyze Nike’s stock performance using real market data and present insights in the form of interactive Power BI dashboards.
 
@@ -54,7 +54,7 @@ Weekly trend distribution
 
 Choose depending on your dashboard story.
 
-📁 Project format
+📁 Project format:
 📦 Nike-Stock-Market-Intelligence
  ┣ Dashboard Screenshot/
  ┣  Data/
