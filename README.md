@@ -45,7 +45,7 @@ Forecast Length: 30 Days
 Shows expected future trend based on historical data.
  5. Donut Chart (Distribution)
 
-Examples:
+Examples
 
 Volume Share by Month
 Months contributing highest volatility
@@ -54,7 +54,7 @@ Weekly trend distribution
 
 Choose depending on your dashboard story.
 
-📁 Project format:
+📁 Project format
 📦 Nike-Stock-Market-Intelligence
  ┣ Dashboard Screenshot/
  ┣  Data/
