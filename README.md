@@ -25,7 +25,7 @@ Power Query	Data Cleaning & Transformations
 Excel / CSV Data	Stock Price Source
 DAX	Measures & KPIs
  Key Dashboard Features
- 1. Daily Closing Price Trend
+ 1. Daily Closing Price Trend:
 Visual: Line Chart
 X-Axis: Date
 Y-Axis: Close Price
@@ -45,7 +45,7 @@ Forecast Length: 30 Days
 Shows expected future trend based on historical data.
  5. Donut Chart (Distribution)
 
-Examples
+Examples:
 
 Volume Share by Month
 Months contributing highest volatility
