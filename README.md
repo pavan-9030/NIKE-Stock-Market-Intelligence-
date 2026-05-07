@@ -26,12 +26,12 @@ Excel / CSV Data	Stock Price Source
 DAX	Measures & KPIs
  Key Dashboard Features
  1. Daily Closing Price Trend:
-Visual: Line Chart
-X-Axis: Date
-Y-Axis: Close Price
- 2. Volatility Analysis
-Visual: Line Chart
-X-Axis: Date
+Visual: Line Chart.
+X-Axis: Date.
+Y-Axis: Close Price.
+ 2. Volatility Analysis.
+Visual: Line Char.t
+X-Axis: Date.
 Y-Axis: Daily Return %
 Helps track how volatile the stock is.
  3. Price Range Chart (High − Low)
