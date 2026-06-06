@@ -136,4 +136,4 @@ Nike-Stock-Market-Intelligence/
 └── PPT Presentation/
 Conclusion
 
-This project demonstrates how Microsoft Power BI can be used to transform stock market data into powerful interactive dashboards. By combining Power Query, DAX calculations, forecasting, and advanced visualizations, the dashboard delivers clear and actionable stock market intelligence for Nike.
+This project demonstrates how Microsoft Power BI can be used to transform stock market data into powerful interactive dashboards. By combining Power Query, DAX calculations, forecasting, and advanced visualizations, the dashboard delivers clear and actionable stock market intelligence for Nike..
