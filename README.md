@@ -5,7 +5,7 @@ This project presents a complete Stock Market Intelligence Dashboard for Nike us
 
 The objective of this project is to transform raw stock market data into meaningful business intelligence that supports data-driven decision-making.
 
-Objectives
+**Objectives:**
 
 The dashboard helps users understand:
 
