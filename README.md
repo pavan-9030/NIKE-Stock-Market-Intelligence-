@@ -1,5 +1,5 @@
 # NIKE-Stock-Market-Intelligence
-Project Overview
+Project Overview:
 
 This project presents a complete Stock Market Intelligence Dashboard for Nike using Power BI. The dashboard analyzes Nike’s stock market performance from 2022 to 2026 and provides interactive insights into price trends, volatility, returns, forecasting, and overall market behavior.
 
@@ -33,7 +33,7 @@ High Price
 Low Price
 Volume
 Key Dashboard Features
-1. Daily Closing Price Trend
+1. Daily Closing Price Trend:
 
 Visual: Line Chart
 
